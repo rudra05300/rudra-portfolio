@@ -1,132 +1,111 @@
-<!-- BANNER IMAGE -->
+<!-- MINIMAL CLASSY BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=220&section=header&text=Rudra%20Singh%20Bais&fontSize=40&fontColor=64FFDA&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=160&section=header&text=Rudra%20Singh%20Bais&fontSize=36&fontColor=E6F1FF&fontAlignY=55" />
 </p>
 
 <!-- PROFILE PHOTO -->
 <p align="center">
-  <img src="rudra.jpg" alt="Rudra Singh Bais" width="170" style="border-radius:50%;" />
+  <img src="rudra.jpg" alt="Rudra Singh Bais" width="150" style="border-radius:50%;" />
 </p>
 
-<h2 align="center">Hi 👋, I'm Rudra Singh Bais</h2>
-
-<!-- ANIMATED TYPING -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Backend+Developer;Django+%7C+REST+APIs+%7C+SQL;Backend+Focused+Problem+Solver;Actively+Seeking+Backend+Roles&center=true&width=500&height=45">
-</p>
+<h2 align="center">Python Backend Developer</h2>
 
 <p align="center">
-  🚀 Python Backend Developer (Fresher) &nbsp;|&nbsp; 📍 Indore, India
+  Django • REST APIs • SQL <br/>
+  Indore, India
 </p>
 
 ---
 
-## ⚡ Quick Snapshot (For Recruiters)
+## Profile
 
-- 🎓 B.Tech CSE (2021–2025)
-- 💼 Backend Internship Experience
-- 🐍 Python • Django • REST APIs • SQL
-- 🧠 Strong Backend Fundamentals
-- 🎯 Actively seeking **Python Backend Developer** roles
+I am a **Python Backend Developer (Fresher)** with a strong foundation in backend engineering, RESTful API design, and database-driven applications.  
+I have hands-on experience through academic projects and a backend internship, where I worked on real-world server-side logic and data workflows.
 
----
-
-## 🧠 Technical Skills
-
-### Backend & Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Java](https://img.shields.io/badge/Java-Basic-orange?style=for-the-badge)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+Currently seeking **entry-level backend roles** where I can contribute, learn, and grow as a backend engineer.
 
 ---
 
-## 💼 Experience
+## Core Skills
 
-### Java Backend Intern  
-**Green Web Software Development Pvt. Ltd.** (Jan 2025 – May 2025)
+**Languages & Frameworks**  
+Python, Django, Django REST Framework, Flask (basic), Java (basic)
 
-- Developed backend modules using Java & MySQL
-- Designed and tested REST APIs
-- Worked on database schemas and backend logic
-- Debugged and enhanced existing backend features
+**Databases**  
+MySQL, SQLite
 
----
+**Backend Concepts**  
+REST APIs, MVC/MVT Architecture, Authentication & Authorization, CRUD Operations, OOP
 
-## 🚀 Projects
-
-### ✈️ SmartAero — Aircraft Defect Detection
-- Backend-focused system for aircraft defect detection
-- Designed scalable backend logic & data flow
-- Emphasis on clean architecture and maintainability
-
-**Tech:** Python, Backend Logic, Database Management  
+**Tools**  
+Git, GitHub, Postman, VS Code
 
 ---
 
-### ♟️ Chessories — AI Chess Platform
-- Backend logic for gameplay & user handling
-- Database integration and performance optimization
+## Experience
 
-**Tech:** Python, SQL  
+**Java Backend Intern**  
+*Green Web Software Development Pvt. Ltd.*  
+Jan 2025 – May 2025
 
----
-
-### 🌐 Online Integrated Platform
-- Multi-module backend system
-- CRUD operations & REST APIs
-
-**Tech:** Python, REST APIs, SQL  
+- Developed backend modules using Java and MySQL  
+- Designed and tested REST APIs  
+- Worked with database schemas and backend logic  
+- Debugged and enhanced existing backend features  
 
 ---
 
-## 📊 GitHub Stats
+## Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudra05300&show_icons=true&theme=tokyonight" />
-</p>
+### SmartAero — Aircraft Defect Detection
+Backend-focused academic project for detecting aircraft defects using image-based analysis.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rudra05300&theme=tokyonight" />
-</p>
+- Designed scalable backend logic and data flow  
+- Emphasized clean architecture and maintainable code  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra05300&theme=tokyo-night" />
-</p>
+**Stack:** Python, Backend Logic, Database Management
 
 ---
 
-## 🎓 Education
+### Chessories — AI Chess Platform
+Backend system for an AI-powered chess application.
+
+- Implemented game logic and user data handling  
+- Integrated database and optimized backend performance  
+
+**Stack:** Python, SQL
+
+---
+
+### Online Integrated Platform
+Multi-module web application with backend-driven features.
+
+- Implemented CRUD operations  
+- Managed REST APIs and database connectivity  
+
+**Stack:** Python, REST APIs, SQL
+
+---
+
+## Education
 
 **B.Tech – Computer Science Engineering**  
 Shri Vaishnav Institute of Information Technology, Indore  
-(2021–2025)
+2021 – 2025  
 
 **Class XII (CBSE):** 70%  
 **Class X (CBSE):** 71%
 
 ---
 
-## 🎯 Career Objective
+## Career Objective
 
-Entry-level **Python Backend Developer** seeking opportunities to build scalable backend systems, APIs, and database-driven applications.
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: **rudrabais05@gmail.com**
-- 🔗 LinkedIn: https://linkedin.com/in/rudra-singh-bais-2b883322b
-- 💻 GitHub: https://github.com/rudra05300
+To begin my career as a **Python Backend Developer**, contributing to backend systems, APIs, and data-driven applications while continuously improving my technical depth.
 
 ---
 
-⭐ *If you like my profile, feel free to star my repositories!*
+## Contact
 
+Email: **rudrabais05@gmail.com**  
+LinkedIn: https://linkedin.com/in/rudra-singh-bais-2b883322b  
+GitHub: https://github.com/rudra05300
